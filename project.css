@@ -4,6 +4,10 @@ body {
   background-color: #F3EFE2;
   color: #2A251E;
 }
+#wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
 main {
   background-color: #F3EFE2;
   padding-top: 1px;
