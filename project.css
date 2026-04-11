@@ -181,3 +181,7 @@ footer {
   padding: 15px;
   margin-top: 20px;
 }
+footer a {
+  color: #90C7E3;
+  text-decoration: none;
+}
